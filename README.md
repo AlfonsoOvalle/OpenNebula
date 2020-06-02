@@ -95,7 +95,8 @@ Use following to login:
   password: 48h4dE8arj
 ```
 
-> ### Listo ya está instalado OpenNebula correctamente  
+> __Listo ya está instalado OpenNebula correctamente__
+
 ![test](https://dc349.4shared.com/img/HoZMxd7Hea/s23/1727568b198/opennebula)
 ##### Parámetros de instalación                                                                                                 
 | Parámetro | Descripción |
