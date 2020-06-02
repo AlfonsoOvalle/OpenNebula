@@ -1,4 +1,5 @@
 # Instalación OpenNebula miniOne [![N|Solid](https://opennebula.io/wp-content/uploads/2019/04/img-logo-blue.svg)](https://docs.opennebula.io/minione/)
+[![N|Solid](https://dc551.4shared.com/img/HoZMxd7Hea/s24/1727568b198/opennebula?async&rand=0.9509118270193466 | width=100)](https://docs.opennebula.io/minione/)
 
 >Actualizamos los repositorios
 ```sh
@@ -29,6 +30,8 @@ sudo bash minione --verbose
 ```sh
 sudo bash minione --verbose --lxd
 ```
+> __Si todo marcha bien, se tendrá una salida parecida con los datos para iniciar sesión__
+
 ```sh
 ### Checks & detection
 Checking AppArmor  SKIP will try to modify
@@ -90,6 +93,8 @@ Use following to login:
   user: oneadmin
   password: 48h4dE8arj
 ```
+
+> ### Listo ya está instalado OpenNebula correctamente  
 
 ##### Parámetros de instalación                                                                                                 
 | Parámetro | Descripción |
