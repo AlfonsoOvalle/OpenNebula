@@ -31,7 +31,7 @@ sudo bash minione --verbose
 ```sh
 sudo bash minione --verbose --lxd
 ```
-> __Si todo marcha bien, se tendrá una salida parecida con los datos para iniciar sesión__
+> __Si todo marcha bien, se tendrá una salida parecida a la siguiente__
 
 ```sh
 ### Checks & detection
