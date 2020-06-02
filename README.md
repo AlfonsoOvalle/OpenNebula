@@ -1,15 +1,15 @@
-# Instalación OpenNebula miniOne[Parámetros de instalación](#Parámetros-de-instalacion) [![N|Solid](https://opennebula.io/wp-content/uploads/2019/04/img-logo-blue.svg)](https://docs.opennebula.io/minione/)
+# Instalación OpenNebula miniOne [![N|Solid](https://opennebula.io/wp-content/uploads/2019/04/img-logo-blue.svg)](https://docs.opennebula.io/minione/)
 
-Actualizamos los repositorios
+>Actualizamos los repositorios
 ```sh
 apt-get update
 ```
-Descargamos el bash de miniOne
+>Descargamos el bash de miniOne
 ```sh
 wget 'https://github.com/OpenNebula/minione/releases/latest/download/minione'
 ```
 
-Concedemos permisos al script
+>Concedemos permisos al script
 ```sh
 chmod 777 minione
 ```
@@ -20,21 +20,17 @@ sudo apt-get install augeas-tools -y
 sudo apt-get install openssh-server -y
 ```
 
-Para realizar una instalación detallada se hace uso del parámetro --verbose, este instalara un hipervisor KVM por defecto
-
+>Para realizar una instalación detallada se hace uso del parámetro --verbose, este instalara un hipervisor KVM por defecto
+>Algunos  [parámetros de instalación](#Parámetros-de-instalacion) que se pueden utilizar
 ```sh
 sudo bash minione --verbose
 ```
-Si se desea instalar un hipervisor LXD
+>Si se desea instalar un hipervisor LXD
 ```sh
 sudo bash minione --verbose --lxd
 ```
-Algunos parámetros que se pueden utilizar  [Parámetros de instalación](####Parámetros)
 
-
- 
-##### Parámetros de instalacion
-
+##### Parámetros de instalacion                                                                                                 
 | Parámetro | Descripción |
 | ------ | ------ |
 |--help	| Mostrar todos los modificadores de línea de comando disponibles.|
