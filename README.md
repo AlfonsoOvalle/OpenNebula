@@ -1,5 +1,5 @@
 # Instalación OpenNebula miniOne [![N|Solid](https://opennebula.io/wp-content/uploads/2019/04/img-logo-blue.svg)](https://docs.opennebula.io/minione/)
-[![N|Solid](https://dc551.4shared.com/img/HoZMxd7Hea/s24/1727568b198/opennebula?async&rand=0.9509118270193466 | width=100)](https://docs.opennebula.io/minione/)
+![test](https://github.com/favicon.ico | width=48)
 
 >Actualizamos los repositorios
 ```sh
