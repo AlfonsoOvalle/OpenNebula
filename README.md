@@ -1,4 +1,4 @@
-# Instalación OpenNebula miniOne[Parámetros de instalación](#####Parámetros-de-instalacion) [![N|Solid](https://opennebula.io/wp-content/uploads/2019/04/img-logo-blue.svg)](https://docs.opennebula.io/minione/)
+# Instalación OpenNebula miniOne[Parámetros de instalación](#Parámetros-de-instalacion) [![N|Solid](https://opennebula.io/wp-content/uploads/2019/04/img-logo-blue.svg)](https://docs.opennebula.io/minione/)
 
 Actualizamos los repositorios
 ```sh
