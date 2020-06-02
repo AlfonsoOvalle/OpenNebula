@@ -1,5 +1,6 @@
 # Instalación OpenNebula miniOne [![N|Solid](https://opennebula.io/wp-content/uploads/2019/04/img-logo-blue.svg)](https://docs.opennebula.io/minione/)
-![test](https://github.com/favicon.ico | width=48)
+
+
 
 >Actualizamos los repositorios
 ```sh
@@ -95,7 +96,7 @@ Use following to login:
 ```
 
 > ### Listo ya está instalado OpenNebula correctamente  
-
+![test](https://dc349.4shared.com/img/HoZMxd7Hea/s23/1727568b198/opennebula)
 ##### Parámetros de instalación                                                                                                 
 | Parámetro | Descripción |
 | ------ | ------ |
